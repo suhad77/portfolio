@@ -405,6 +405,10 @@ p{
     -webkit-transition: 0.2s linear;
     transition: 0.2s linear;
 }
+.blogs .box-container .box:hover .image img {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
 .blogs .box-container .box .content .icons {
     position: relative;
     top: -1rem;
@@ -503,6 +507,7 @@ p{
     margin: 0.7rem 0;
     background: #1a1a1a;
     width: 49%;
+    /* border: none; */
 }
 .contact .row form .inputBox {
     display: -webkit-box;
