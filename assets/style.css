@@ -238,6 +238,9 @@ p{
     gap: 1.1rem;
     text-align: start;
 }
+.tailwind{
+	width: 100%;
+}
 .skills .box-container .box {
     padding: 1rem;
     text-align: center;
