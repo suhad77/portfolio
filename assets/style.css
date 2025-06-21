@@ -456,6 +456,7 @@ p{
 .contact .row .info-container .box-container {
     display: flex;
     padding: 1rem 0;
+    gap: 5rem;
 }
 .contact .row .info-container .box-container .box {
     display: -webkit-box;
